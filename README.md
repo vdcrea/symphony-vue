@@ -1,6 +1,6 @@
 # Symphony Vue
 
-A [Symphony CMS](http://www.getsymphony.com/) Ensemble to manage the content of a JSON API and deliver dynamic assets consumed by a [Vue js](http://vuejs.org/) web app.
+A [Symphony CMS](http://www.getsymphony.com/) Ensemble to manage the content of a json API and deliver dynamic assets consumed by a [Vue js](http://vuejs.org/) web app.
 
 ## Symphony 2
 
