@@ -7,6 +7,8 @@
 - npm run dev (for webpack webserver with hot reload)
 - npm run build (to build assets in workspace/app)
 
+Edit vue/src/api.js to change the path to your root install of Symphony CMS
+
 # Symphony 2
 
 [![Join the chat at https://gitter.im/symphonycms/symphony-2](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/symphonycms/symphony-2?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
