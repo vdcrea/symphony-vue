@@ -43,3 +43,4 @@
 [submodule "extensions/commonmark"]
 	path = extensions/commonmark
 	url = git://github.com/vdcrea/symphony-commonmark.git
+    ignore = dirty
