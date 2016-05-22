@@ -9,3 +9,4 @@ vue/test/unit/coverage
 vue/test/e2e/reports
 vue/node_modules/
 workspace/app/static/
+extensions/commonmark/vendor/

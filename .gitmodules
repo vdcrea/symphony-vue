@@ -40,6 +40,3 @@
 [submodule "extensions/uniqueuploadfield"]
 	path = extensions/uniqueuploadfield
 	url = git://github.com/michael-e/uniqueuploadfield.git
-[submodule "extensions/commonmark"]
-	path = extensions/commonmark
-	url = git://github.com/vdcrea/symphony-commonmark.git
