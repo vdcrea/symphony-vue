@@ -1,0 +1,29 @@
+HTTP Response Header Mappings
+-----------------------------
+
+Allows more control over Frontend page HTTP response headers using
+customizable page types. Each mapping is stored in the Symphony config file,
+and page type is matched against these mappings.
+
+
+[CREDITS]
+
+This extension is based completely on Alistair Kearney's Content Type Mappings
+extension.
+
+
+[INSTALLATION]
+
+1. Enable the extension
+2. Add HTTP response header mappings to your /manifest/config.php file with
+   the format 'PAGE TYPE' => 'RESPONSE HEADER', e.g.:
+
+		###### HTTP-RESPONSE-HEADER-MAPPINGS ######
+		'http-response-header-mappings' => array(
+			'503' => 'HTTP/1.1 503 Service Unavailable',
+		),
+		########
+
+3. If a page uses a type listed in the config, that appropriate HTTP response
+   header will be set. Should more than one match be found, the last one
+   encountered will be used.
