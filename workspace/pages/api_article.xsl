@@ -9,7 +9,6 @@
     encoding="UTF-8"
     indent="no" />
 
-
 <xsl:template match="data">{
    "article": <xsl:apply-templates select="article/entry" />,
    "pagination": <xsl:apply-templates select="comments/pagination" />
