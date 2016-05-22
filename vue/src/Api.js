@@ -1,4 +1,4 @@
-var root = 'http://sym-vue:8888/'
+var root = 'http://symphony-vue:8888/'
 var api = root + 'api/'
 var jit = root + 'image/'
 
