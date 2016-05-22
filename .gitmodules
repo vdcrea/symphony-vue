@@ -25,9 +25,6 @@
 [submodule "extensions/json_formatter"]
 	path = extensions/json_formatter
 	url = git://github.com/vdcrea/json_formatter.git
-[submodule "extensions/commonmark"]
-	path = extensions/commonmark
-	url = git://github.com/vdcrea/symphony-commonmark.git
 [submodule "extensions/editor_for_symphony"]
 	path = extensions/editor_for_symphony
 	url = git://github.com/symphonists/editor_for_symphony.git
@@ -43,3 +40,6 @@
 [submodule "extensions/uniqueuploadfield"]
 	path = extensions/uniqueuploadfield
 	url = git://github.com/michael-e/uniqueuploadfield.git
+[submodule "extensions/extensions/commonmark"]
+	path = extensions/extensions/commonmark
+	url = git://github.com/vdcrea/symphony-commonmark.git
