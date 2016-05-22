@@ -10,3 +10,4 @@ vue/test/e2e/reports
 vue/node_modules/
 workspace/app/static/
 extensions/commonmark/vendor/
+extensions/commonmark/composer.lock
