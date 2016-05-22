@@ -2,6 +2,13 @@
 
 [Symphony CMS](http://www.getsymphony.com/) Ensemble to manage the content of a json API and deliver dynamic assets consumed by a [Vue js](http://vuejs.org/) app.
 
+## Vue front end dev
+
+- Go to 'vue' folder
+- npm install
+- npm run dev (for webpack webserver with hot reload)
+- npm run build (to build assets in workspace/app)
+
 ## Symphony 2
 
 [![Join the chat at https://gitter.im/symphonycms/symphony-2](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/symphonycms/symphony-2?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
