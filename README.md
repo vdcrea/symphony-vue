@@ -2,7 +2,7 @@
 
 [Symphony CMS](http://www.getsymphony.com/) Ensemble to manage the content of a json API and deliver dynamic assets consumed by a [Vue js](http://vuejs.org/) app.
 
-Note: after installation of all Symphony extensions of this ensemble don't forget to run 'composer update' for extensions/commonmark
+Note: Before installing Symphony please run 'composer update' in extensions/commonmark
 
 - Go to 'vue' folder
 - npm install
