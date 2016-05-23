@@ -4,11 +4,10 @@
 <xsl:import href="../utilities/pagination.xsl"/>
 
 <xsl:output
-    method="html"
+    method="xml"
     omit-xml-declaration="yes"
     encoding="UTF-8"
-    indent="no" />
-
+    indent="yes" />
 
 <xsl:template match="data">{
     "articles": [<xsl:apply-templates select="articles/entry" />
